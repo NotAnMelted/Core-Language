@@ -1,0 +1,847 @@
+[
+  {
+    "Package": "main",
+    "Translation ID": "account_code_in_email",
+    "ru-RU": "Код электронной почты"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_email",
+    "ru-RU": "Электронная почта"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_email_info",
+    "ru-RU": "Этот адрес электронной почты используется для сброса пароля или обновления учетной записи."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_forgetpassword_description",
+    "ru-RU": "Забыли пароль от своей учетной записи YuukiPS? Вы можете восстановить пароль здесь."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_forgetpassword_info",
+    "ru-RU": "Оставьте пустыми все поля ниже, если вы не получили от нас письмо."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_forgetpassword_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_forgetpassword_title",
+    "ru-RU": "Забыли пароль?"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_forgotpassword",
+    "ru-RU": "Забыли пароль?"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_announcement_bt",
+    "ru-RU": "Узнать больше"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_announcement_description",
+    "ru-RU": "Эта страница все еще находится в разработке, поэтому она будет выглядеть упрощённо до тех пор пока она работает.  Чтобы поиграть на приватном сервере, пожалуйста, войдите в аккаунт используя {{username}} данное имя пользователя."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_announcement_header",
+    "ru-RU": "Объявление"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_announcement_title",
+    "ru-RU": "Привет, {{name}}"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_bt_relogin_ingame",
+    "ru-RU": "Разрешить всем входить в игру"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_bt_relogin_ingame_iplock",
+    "ru-RU": "Разрешить вход в игру только с текущим IP-адресом (высокий уровень безопасности)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_code",
+    "ru-RU": "Код (доступ к API) (вы можете установить 4-значный номер для доступа к командам веб-бота/бота или API. Если вы оставите это поле пустым, команды веб-бота/бота или функции API будут отключены.)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_description",
+    "ru-RU": "Чтобы получить доступ к учетной записи менеджера, пожалуйста, войдите в аккаунт."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_email",
+    "ru-RU": "Электронная почта"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_gencode",
+    "ru-RU": "Генератор"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_info_link",
+    "ru-RU": "Вход со сторонних платформ (Option)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_info_link_set",
+    "ru-RU": "Привязать"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_info_link_unset",
+    "ru-RU": "Отвязать"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_invaild_ip",
+    "ru-RU": "Для большей безопасности, пожалуйста, введите здесь свой IP-адрес, чтобы только вы могли получить доступ к вашей игре, даже без внутриигрового пароля.<br>(поддерживается 5 IP-адресов: ip_house1, ip_house_2, ip_work1)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_ip",
+    "ru-RU": "IP-адрес разрешён в игре (Ваш IP: {{ip}}) (Option)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_name",
+    "ru-RU": "Имя"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_nopassword_game",
+    "ru-RU": "Пустой пароль. Это будет нормально, если вы включите вход только с разрешенным IP-адресом, но если нет, это облегчит людям вход в игру, а затем удалит предметы, квесты или испортит данные вашего игрока.<br>Функция в настоящее время недоступна, поэтому оставьте это поле пустым."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_nopassword_web",
+    "ru-RU": "Пустой пароль. Это позволит легко взломать ваш аккаунт. Пожалуйста, измените его."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_password_game",
+    "ru-RU": "Пароль (В игре) (Option)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_password_infosave",
+    "ru-RU": "Оставьте поле пустым или неизменным, если не хотите его менять.<br>Если у вас нет текущего пароля (В Веб-версии), оставьте его пустым."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_password_web",
+    "ru-RU": "Пароль (В Веб-версии)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_password_web2",
+    "ru-RU": "Текущий пароль (В Веб-версии)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_relogin_ingame",
+    "ru-RU": "У вас есть время <time data-now='{{login}}' data-type='sec'>???</time> для входа в игру (в игре). Если время истечет, вам необходимо снова разрешить вход в игру, нажав кнопку ниже:"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_relogin_ingame_info",
+    "ru-RU": "После того, как вам будет разрешено войти в игру, у вас есть 2-5 минут для входа в игру. Если кто-то другой входил в аккаунт до вас до истечения таймера, ваш аккаунт будет заблокирован и вам придётся повторить процедуру снова. Это сделано в целях предотвращения заполучения вашего аккаунта третьими лицами, так как при входе в игру пароль не требуется."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_save",
+    "ru-RU": "Сохранить"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_signature",
+    "ru-RU": "Подпись"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_tab_account",
+    "ru-RU": "Аккаунт"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_tab_server",
+    "ru-RU": "Сервер"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_title",
+    "ru-RU": "Менеджер аккаунтов"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_home_username",
+    "ru-RU": "Имя пользователя"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_login_description",
+    "ru-RU": "Это требуется для входа в вашу учетную запись YuukiPS."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_login_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_login_title",
+    "ru-RU": "Войти в аккаунт"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_newpassword",
+    "ru-RU": "Новый пароль"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_password",
+    "ru-RU": "Пароль"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_password_info",
+    "ru-RU": "Данный пароль используется для управления ваших данных учетной записи, например данными игрока на каждом сервере, поэтому не забудьте свой пароль. Вы можете ввести случайный пароль(в игре) потому-что эта функция пока не существует но я ебал это переводить что он пишет на английском БЛЯТЬ ЧТО???"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_password_tes",
+    "ru-RU": "Пожалуйста, введите пароль еще раз"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_register_description",
+    "ru-RU": "Это необходимо для регистрации вашей учетной записи YuukiPS."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_register_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_register_ok",
+    "ru-RU": "Вы можете закрыть эту страницу, используя только что созданное вами имя пользователя."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_register_title",
+    "ru-RU": "Зарегистрироваться"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_title",
+    "ru-RU": "YuukiPS Аккаунт"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_uid_home",
+    "ru-RU": "UID Аккаунта"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_uid_player",
+    "ru-RU": "UID Игрока"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "account_username",
+    "ru-RU": "Имя пользователя"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "announcement_description",
+    "ru-RU": "Это объявление появляется только в игре. Что вы ищете?"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "announcement_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "announcement_title",
+    "ru-RU": "Объявление"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_forgot_code_incorrect",
+    "ru-RU": "Пароль невозможно изменить, так как код неправильный, попробуйте еще раз."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_forgot_send_email_error",
+    "ru-RU": "Не получилось отправить код для сброса пароля на вашу электронную почту. Сообщите об этом администратору."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_forgot_send_email_ok",
+    "ru-RU": "Код для сброса пароля был отправлен на вашу электронную почту, используйте его для сброса."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_forgot_update_code_error",
+    "ru-RU": "Ошибка восстановления пароля из-за отсутствия обновления кода, попробуйте еще раз."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_forgot_update_password_error",
+    "ru-RU": "Сбросить пароль невозможно, поскольку не удалось изменить новый пароль. Попробуйте сообщить об этом администратору."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_forgot_update_password_ok",
+    "ru-RU": "Пароль успешно изменен, теперь вы можете войти под новым паролем."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_nopassword",
+    "ru-RU": "Невозможно установить пароль, поскольку пароль пуст."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_notfound",
+    "ru-RU": "Аккаунт не найден"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_account_password_invalid",
+    "ru-RU": "Пароли могут состоять минимум из 3 и максимум из 50 букв."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_captcha_failed",
+    "ru-RU": "Введенная вами капча неверна или не решена."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_check_username_invaild",
+    "ru-RU": "Имена пользователей могут состоять минимум из 3 и 50 букв и не должны содержать специальных символов или использовать формат электронной почты."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_duplication_by_registered",
+    "ru-RU": "Невозможно зарегистрировать учетную запись, поскольку имя пользователя или адрес электронной почты уже заняты."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_duplication_uid_by_registered",
+    "ru-RU": "UID этой учетной записи уже используется. Попробуйте создать учетную запись с другим UID."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_email_duplication",
+    "ru-RU": "Этот адрес электронной почты уже используется в другой учетной записи, используйте другой."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_email_invaild",
+    "ru-RU": "Неверный адрес электронной почты. Убедитесь, что адрес электронной почты указан правильно, поскольку важно использовать функцию сброса пароля."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_email_none",
+    "ru-RU": "Почему почта пустая?"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_expiredlogin",
+    "ru-RU": "Срок действия пароля истек. Нажмите «Разрешить вход в игру» на странице https://ps.yuuki.me/account/home, чтобы снова получить доступ."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_failed0",
+    "ru-RU": "Не удалось подключиться к базе данных, попробуйте еще раз (0)"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_failed1",
+    "ru-RU": "Не удалось подключиться к базе данных. Повторите попытку (1)."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_invalid_ip_list",
+    "ru-RU": "Список IP недействителен."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_iplock",
+    "ru-RU": "Эта учетная запись может использоваться только имея IP-адрес. Если вы являетесь владельцем этой учетной записи, обновите свой IP-адрес по ссылке https://ps.yuuki.me/account/home."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_link_faild",
+    "ru-RU": "Не удалось, добавлен сторонний логин"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_link_ok",
+    "ru-RU": "Успешно, добавлен сторонний вход"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_login_failed",
+    "ru-RU": "Не удалось войти, попробуйте войти заново."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_login_notfound_expired",
+    "ru-RU": "Пожалуйста, повторно войдите в систему, поскольку срок действия этого входа истек."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_login_notfound_ingame",
+    "ru-RU": "Аккаунт еще не зарегистрирован, зарегистрируйтесь по адресу https://ps.yuuki.me/account/register."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_login_notfound_link",
+    "ru-RU": "Этот сторонний логин не связан ни с одним аккаунтом. Если у вас уже есть аккаунт, войдите в нее под обычным аккаунтов, а затем перейдите по ссылке в менеджере аккаунтов."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_login_notfound_web",
+    "ru-RU": "Аккаунт еще не зарегистрирован, пожалуйста, создайте аккаунт!."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_login_ok",
+    "ru-RU": "Вход успешен"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_name_none",
+    "ru-RU": "Имя не может быть пустым"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_password_invaild_web",
+    "ru-RU": "Пароль для менеджера аккаунтов (Веб-версия) недействителен."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_password_none",
+    "ru-RU": "Пароль пуст, необходимо заполнить."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_password_none_web",
+    "ru-RU": "Пароль для доступа к менеджеру аккаунтов (Веб-версия) пуст. Пожалуйста, заполните его, это важно."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_password_wrong",
+    "ru-RU": "Пароль неправильный."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_passwordingame_unavailable",
+    "ru-RU": "Функция внутриигровых паролей пока недоступна"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_registered_failed",
+    "ru-RU": "Не удалось зарегестрировать аккаунт."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_registered_noemail",
+    "ru-RU": "Регистрация не удалась, потому что нет электронной почты."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_registered_nopassword",
+    "ru-RU": "Регистрация не удалась, так как нет пароля."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_registered_ok",
+    "ru-RU": "Аккаунт успешно зарегистрирован"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_registered_password",
+    "ru-RU": "Пароли могут состоять минимум из 3 и максимум из 50 букв."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_save_failed_by_wrongpassword",
+    "ru-RU": "Не удалось сохранить настройки, поскольку текущие веб-пароли не совпадают."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_token_failed",
+    "ru-RU": "Возможно, срок действия этого токена истек или он не найден. Пожалуйста, войдите в систему еще раз."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_token_ok",
+    "ru-RU": "Успешно подключено используя токен"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_unlink_faild",
+    "ru-RU": "Не удалось, сторонний вход отозван"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_unlink_ok",
+    "ru-RU": "Успешно, сторонний вход в систему отозван"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_db_account_update_ok",
+    "ru-RU": "Аккаунт успешно обновлен."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_invaild_type_login1",
+    "ru-RU": "Неизвестный тип входа, свяжитесь с администратором."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_password_notpass",
+    "ru-RU": "Повторно введите пароль, который отличается от исходного пароля. Старайтесь вводить пароль внимательно и убедитесь, что они совпадают."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_account_notfound",
+    "ru-RU": "Учетная запись с таким идентификатором не найдена. Убедитесь, что вы правильно ввели UID аккаунта и убедитесь, что это не UID игрока, поскольку он отличается от UID аккаунта. Вы можете найти его по ссылке https://ps.yuuki.me/account/home"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_accountid_empty",
+    "ru-RU": "Пожалуйста, введите UID аккаунта"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_code_empty",
+    "ru-RU": "Пожалуйста, введите свой код доступа. Вы можете найти его по ссылке https://ps.yuuki.me/account/home."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_code_incorrect",
+    "ru-RU": "Код, который вы ввели, неверный."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_code_noset",
+    "ru-RU": "Для доступа к веб-командам или боту введите код, его можно найти по ссылке https://ps.yuuki.me/account/home."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_error",
+    "ru-RU": "Что-то пошло не так, свяжитесь с администратором."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_server_login_ok",
+    "ru-RU": "Успешно подключено"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "api_web_error_unknown",
+    "ru-RU": "Неизвестная ошибка, свяжитесь с администратором."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "bt_logout",
+    "ru-RU": "Выйти"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "bt_reload",
+    "ru-RU": "Перезагрузить проигрыватель данных"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "command_description",
+    "ru-RU": "Это для доступа к командам для игры, чтобы вы могли контролировать, что происходит в игре."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "command_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "command_title",
+    "ru-RU": "Доступ к командам"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "footer_message",
+    "ru-RU": "© 2023 YuukiPS. Все права защищены. Мы можем сделать случайную ошибку программиста, но, эй, даже этот копирайт был создан ChatGPT. И не беспокойтесь, весь наш код оригинален - ну, за исключением того случая, когда мы случайно скопировали все с GitHub."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_description_id_1",
+    "ru-RU": "Отправьтесь в незабываемое приключение в захватывающем мире Genshin Impact. Присоединяйтесь к нашему приватному серверу для истинных искателей приключений и исследуйте обширные ландшафты, устрашающие подземелья и мистических существ. Участвуйте в эпических квестах, сражениях и находите спрятанные сокровища. Настраивайте своего персонажа, создавайте союзы и преодолевайте трудности в постоянно эволюционирующей вселенной. Присоединяйся сейчас и стань легендой в Genshin Impact!"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_description_id_2",
+    "ru-RU": "Отправьтесь в незабываемое приключение в захватывающем мире Star Rail. Присоединяйтесь к нашему приватному серверу для истинных искателей приключений и исследуйте обширные ландшафты, устрашающие подземелья и мистических существ. Участвуйте в эпических квестах, сражениях и находите спрятанные сокровища. Настраивайте своего персонажа, создавайте союзы и преодолевайте трудности в постоянно эволюционирующей вселенной. Присоединяйся сейчас и стань легендой в Star Rail!"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_keyword_id_1",
+    "ru-RU": "YuukiPS, Genshin Impact, Приватный сервер, Hack Melon"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_keyword_id_2",
+    "ru-RU": "YuukiPS, Genshin Impact, Приватный сервер, Hack Melon"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_portal_info",
+    "ru-RU": "Чтобы получить доступ к нашему серверу, пожалуйста, создайте <a href='/account/login'>ЮкиПС Аккаунт</a> здесь (Это бесплатно).<br>Все сервера YuukiPS поддерживаются нашими спонсорами и рекламой. Кто уодно может получить доступ к командам бесплатно, но есть лимит на время для каждой команды чтобы всё работало стабильнее и все были счастливы. Поэтому если вы покупаете YuukiPS аккаунт или платите, чтобы получить доступ к командам - вас обманывают. Будьте аккуратны.\n<br>Не забудьте помочь нам, став <a href='/sponsor'>Спонсором</a> или не использовать AdBlock, чтобы этот сервер всегда был жив!!!<br>Если ссылка для скачивания не работает или работает медленно, используйте VPN, например <a href='https://www.touchvpn.net/platform.html' target='blank'>TouchVpn</a> или <a href='https://1.1.1.1/' target='blank'>WARP</a>."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_portal_title_download",
+    "ru-RU": "Скачать игру"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_portal_title_gamedata",
+    "ru-RU": "Данные игры"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_portal_title_release",
+    "ru-RU": "Релиз"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_portal_title_voicedata",
+    "ru-RU": "Голосовые данные"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_portal_update",
+    "ru-RU": "Похоже, вы используете версию {{version}}, которая может больше не поддерживаться или серверы могут быть недоступны для этой версии."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_title_id_1",
+    "ru-RU": "Играть на приватных серверах Genshin Impact"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_title_id_2",
+    "ru-RU": "Играть на приватных серверах Star Rail"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "game_title_soon",
+    "ru-RU": "Скоро..."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_404",
+    "ru-RU": "Возможно, вы заходите на страницу, которая недоступна, или, возможно, вы в данный момент используете прокси-сеть для загрузки игровых данных (если да, сначала отключите ее, а затем попробуйте перезагрузить ссылку для загрузки еще раз). 404 короче даже не переводил"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_back",
+    "ru-RU": "На главную"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_bt_title_command",
+    "ru-RU": "Доступ к командам"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_bt_title_doc",
+    "ru-RU": "Документация"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_bt_title_loginnreg",
+    "ru-RU": "Аккаунт"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_bt_title_play",
+    "ru-RU": "Играл"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_description",
+    "ru-RU": "Лень писать, может, потом спрошу у ChatGPT. Мне тоже лень бля"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_info1",
+    "ru-RU": "YuukiPS бесплатен. Если вы покупаете аккаунт в интернет-магазине - вас обманывают, поэтому будьте осторожны."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_lead",
+    "ru-RU": "YuukiPS — это приватный сервер, на котором вы можете играть на серверах<p>помимо официального и имеете большую свободу действий.</p>"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "home_title",
+    "ru-RU": "Главная"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "ingame_join_unavailable",
+    "ru-RU": "Этот сервер временно недоступен"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "ingame_update",
+    "ru-RU": "В настоящее время нет доступных серверов, совместимых с версией {{version}} игрового клиента.\n\n Пожалуйста {{action}} ваш игровой клиент, чтобы продолжить играть.\n\nРекомендованные версии:  {{recommended}}."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_fiddler_nopatch",
+    "ru-RU": "Проксируйте свою игру, чтобы вы могли подключиться к частному серверу и не нуждаться в патчах и т. д."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_fiddler_patch",
+    "ru-RU": "Ручной патч без лаунчера. В версии 2.8 и выше вам понадобится файл Patch.dll, чтобы иметь возможность присоединиться к частному серверу, поэтому не забудьте пропатчиться с помощью RSAPatch."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_gamedata_android",
+    "ru-RU": "Если загрузка внутриигровых данных не удалась, используйте это для загрузки вручную."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_gamedata_pc",
+    "ru-RU": "Если у вас еще нет игровых данных, загрузите их (выберите полную версию, если у вас нет полной версии 4.0.0, 3.8.0), помните, что каждую версию нельзя использовать в другой версии, поэтому 3.2.0=3.2, 4.1.0=4.1 и 4.0.0, 4.0.1=4.0. Этот файл не был модифицирован, поэтому вам нужен специальный лаунчер для приватных серверов. Вы можете найти его ниже, в нём уже есть патчи и прокси."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_gamedata_pc_32",
+    "ru-RU": "Поскольку Mihoyo удалили файл 3.2 со своего сервера, для загрузки игрового клиента 3.2 работает только эта ссылка. Она понадобится вам для запуска других версий GIO 3.2, поскольку 4.0/4.1 не будут работать."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_gamedata_pc_cn",
+    "ru-RU": "То же, что и глобальная версия. Это китайская версия которая используется в Китае дабы загрузка была быстрее."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_gamedata_pc_oneclick",
+    "ru-RU": "Это модифицированный пакет, поэтому вам нужно только загрузить все части, затем извлечь файл (GI-3.2-PC-YuukiPS.zip) в любое место, а затем играть, просто открыв GenshinImpact.exe, для этого не требуется прокси или патч."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_launcher_cn",
+    "ru-RU": "Альтернативный лаунчер для игрового аниме-патча и поддержки подключения к частным серверам другого или локального хоста."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_launcher_cultivation",
+    "ru-RU": "Это альтернативный лаунчер, который изменяет ваш игровой клиент для подключения к частным серверам в любом месте, включает поддержку локального хоста и выполняет множество функций, подобных модам."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_launcher_tutorial_cn",
+    "ru-RU": "Если вы китаец, вы можете следовать официальному руководству здесь."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_launcher_tutorial_en",
+    "ru-RU": "Если вы лучше понимаете английский, прочтите документацию неофициальной версии."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_launcher_yuukips",
+    "ru-RU": "Это лаунчер, модифицированный для подключения к YuukiPS. Загрузите его, если хотите поиграть с нами. <br>Android: Если загружаемый вами файл изменится на формат .zip, не забудьте переименовать его обратно в .apk перед установкой. Вам нужно только установить этот APK, после чего игра автоматически загрузит внутриигровые данные при успешном входе в систему. <br>ПК: Вам необходимо использовать данные игры, если у вас их еще нет, то вручную установить папку game."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_launcher_yuukips_video",
+    "ru-RU": "Это официальное руководство по подключению YuukiPS к YuukiPS Launcher."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "json_comment_info_RSAPatch",
+    "ru-RU": "Ручной патч без лаунчера. Чтобы присоединиться к частному серверу 3.2–3.7, вам понадобится RSAPatch для версии 1.3.0."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "LOGIN_REQUIRED",
+    "ru-RU": "Для доступа к этой странице требуется логин, пожалуйста, сначала войдите в аккаунт."
+  },
+  {
+    "Package": "main",
+    "Translation ID": "LOGOUT_DONE",
+    "ru-RU": "Вы успешно вышли из вашего аккаунта"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "stats_description",
+    "ru-RU": "Статистика YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "stats_keyword",
+    "ru-RU": "YuukiPS"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "stats_title",
+    "ru-RU": "Статистика"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "title_stats_server",
+    "ru-RU": "СЕРВЕР"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "title_stats_tcpu",
+    "ru-RU": "Процессор"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "title_stats_tname",
+    "ru-RU": "ИМЯ"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "title_stats_tonline",
+    "ru-RU": "В СЕТИ"
+  },
+  {
+    "Package": "main",
+    "Translation ID": "title_stats_tram",
+    "ru-RU": "ОПЕРАТИВНАЯ ПАМЯТЬ"
+  }
+]
